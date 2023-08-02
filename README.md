@@ -1,4 +1,4 @@
-- Aprendendo Ruby ![image](https://github.com/brunobispo12/brunobispo12/assets/124530740/bf160bbe-d644-4f25-9871-9489bc671bc6)
+- Aprendendo Ruby <a href="https://www.ruby-lang.org"><img class="emojidex-emoji" src="https://cdn.emojidex.com/emoji/seal/Ruby.png" emoji-code="Ruby" alt="Ruby" style="width: 20px; height: 20px;" /></a>
 - Aprendendo Angular !
 
 
