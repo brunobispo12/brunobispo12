@@ -6,14 +6,12 @@
 
 <body>
 
-    <h1>Olá meu nome é Bruno</h1>
-
-
-    <h2>Frameworks/Angular</h2>
-    <ul>
-        <li>Ruby</li>
-        <li>Angular</li>
-    </ul>
+<h1>Olá meu nome é Bruno</h1> 
+<h2>Frameworks/Angular</h2> 
+<ul> 
+    <li>Ruby</li> 
+    <li>Angular</li> 
+</ul>
 
 </body>
 
