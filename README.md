@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; gap: 4px">
-  <span>Aprendendo Ruby</span> <a href="https://www.ruby-lang.org"><img class="emojidex-emoji" src="https://cdn.emojidex.com/emoji/seal/Ruby.png" emoji-code="Ruby" alt="Ruby" style="width: 20px; height: 20px;" /></a>
+  <div>Aprendendo Ruby</div> <div><a href="https://www.ruby-lang.org"><img class="emojidex-emoji" src="https://cdn.emojidex.com/emoji/seal/Ruby.png" emoji-code="Ruby" alt="Ruby" style="width: 20px; height: 20px;" /></a></div>
 </div>
 
 
