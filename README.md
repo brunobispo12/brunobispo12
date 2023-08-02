@@ -1,4 +1,4 @@
-<div style="diplasy: flex; align-items: center; gap: 4px">
+<div style="display: flex; align-items: center; gap: 4px">
   Aprendendo Ruby <a href="https://www.ruby-lang.org"><img class="emojidex-emoji" src="https://cdn.emojidex.com/emoji/seal/Ruby.png" emoji-code="Ruby" alt="Ruby" style="width: 20px; height: 20px;" /></a>
 <div/>
 
