@@ -1,4 +1,4 @@
-Aprendendo Ruby <a href="https://www.ruby-lang.org" emoji-code="Ruby"><img class="emojidex-emoji" style="width:20px height:20px"src="https://cdn.emojidex.com/emoji/seal/Ruby.png" emoji-code="Ruby" alt="Ruby" /></a>
+Aprendendo Ruby
 
 
 
