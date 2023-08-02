@@ -14,9 +14,8 @@
 </ul>
 
 <h2>Status: </h2>
-<div>[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanogiacomet&amp;layout=compact&amp;langs_count=7&amp;theme=dark" style="max-width: 100%;">
 
 </body>
 
 </html>
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobispo12&hide=html&layout=compact&theme=default)](https://github.com/brunobispo12/github-readme-stats)
