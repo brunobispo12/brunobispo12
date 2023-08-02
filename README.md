@@ -6,7 +6,7 @@
 
 <body>
 
-<h1>Olá meu nome é Bruno</h1>
+<h1>Olá meu nome é Bruno 👋</h1>
 
 <h2>Frameworks/Linguagens que estou aprendendo: </h2> 
 <ul> 
