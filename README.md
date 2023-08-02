@@ -1,2 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobispo12&layout=donut)](https://github.com/brunobispo12/github-readme-stats)
+<head>
+</head>
+
+<body>
+
+    <h1>Olá meu nome é Bruno</h1>
+
+
+    <h2>Frameworks/Angular</h2>
+    <ul>
+        <li>Ruby</li>
+        <li>Angular</li>
+    </ul>
+
+</body>
+
+</html>
