@@ -9,7 +9,7 @@
 <h1>Olá meu nome é Bruno</h1> 
 <h2>Frameworks/Linguagens que estou aprendendo: </h2> 
 <ul> 
-    <li>Ruby</li> 
+    <li>Ruby <img height="25em" src="![image](https://github.com/brunobispo12/brunobispo12/assets/124530740/6f639718-d8d4-4c5b-baaf-1952494ff82e)"></li> 
     <li>Angular</li> 
 </ul>
 
