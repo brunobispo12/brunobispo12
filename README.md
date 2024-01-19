@@ -10,7 +10,7 @@
 </br>
 <h2>Aprendendo 📖: </h2> 
 <ul> 
-    <li style="display: flex; gap: 4px; align-items: center;">Rust  <img height="25em" src="https://rustacean.net/assets/cuddlyferris.svg" style="max-width: 100%"</li> 
+    <li style="display: flex; gap: 4px; align-items: center; height: 25em">Rust  <img height="25em" src="https://rustacean.net/assets/cuddlyferris.svg" style="max-width: 100%"</li> 
 </ul>
 </br>
 <h2>Skills 🚀:</h2>
