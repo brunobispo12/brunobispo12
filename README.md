@@ -10,7 +10,7 @@
 </br>
 <h2>Aprendendo 📖: </h2> 
 <ul> 
-    <li style="display: flex; gap: 4px; align-items: center;">Rust  <img height="15em" src="https://static-00.iconduck.com/assets.00/rust-icon-512x511-cfvdvrfr.png" style="max-width: 100%"</li> 
+    <li style="display: flex; gap: 4px; align-items: center;">Rust  <img height="15em" src="https://www.rust-lang.org/logos/rust-logo-512x512.png" style="max-width: 100%"</li> 
 </ul>
 </br>
 <h2>Skills 🚀:</h2>
