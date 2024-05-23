@@ -12,11 +12,11 @@
 </br>
 <h2>Tecnologias</h2>
 Tecnologias:
-- Typescript / C# / Java / Rust
-- Next.js / React / ASP.NET / Spring 
-- Postegres / SQL Server / MongoDB / MySQL
-- Azure / Docker
-- CI/CD (GitHub Actions)
+- Typescript / C# / Java / Rust</br>
+- Next.js / React / ASP.NET / Spring </br>
+- Postegres / SQL Server / MongoDB / MySQL</br>
+- Azure / Docker</br>
+- CI/CD (GitHub Actions)</br>
 </br>
 </br>
 </br>
