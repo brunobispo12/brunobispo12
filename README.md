@@ -11,7 +11,7 @@
 </br>
 </br>
 <h2>Tecnologias</h2>
-Tecnologias:
+Tecnologias:</br>
 - Typescript / C# / Java / Rust</br>
 - Next.js / React / ASP.NET / Spring </br>
 - Postegres / SQL Server / MongoDB / MySQL</br>
