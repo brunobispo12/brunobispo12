@@ -9,7 +9,6 @@
 <h1>Olá meu nome é Bruno 👋</h1>
 </br>
 </br>
-</br>
 <h2>Tecnologias</h2>
 Tecnologias:</br>
 - Typescript / C# / Java / Rust</br>
