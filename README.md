@@ -13,7 +13,7 @@
 Tecnologias:</br>
 - Typescript / C# / Java / Rust</br>
 - Next.js / React / ASP.NET / Spring </br>
-- Postegres / SQL Server / MongoDB / MySQL</br>
+- Postgres / SQL Server / MongoDB / MySQL</br>
 - Azure / Docker</br>
 - CI/CD </br>
 </br>
