@@ -12,7 +12,7 @@
 <h2>Tecnologias</h2>
 Tecnologias:</br>
 - Typescript / C# / Java / Rust</br>
-- Next.js / React / ASP.NET / Spring </br>
+- Next.js / Angular / React / ASP.NET / Spring </br>
 - Postgres / SQL Server / MongoDB / MySQL</br>
 - Azure / Docker</br>
 - CI/CD </br>
